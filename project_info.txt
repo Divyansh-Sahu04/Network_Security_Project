@@ -3,3 +3,7 @@
 # networkdataextract-- etl pipeline
 # push data-- etl pipeline
 # we are writing all the config in entity folder
+# our data should have same schema(same number of features)
+# data drift report
+# validate no of columns numerical column exist
+ 
