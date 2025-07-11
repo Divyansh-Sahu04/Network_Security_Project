@@ -1,3 +1,5 @@
 # Large data consists of 11k+ records
 # connected to mongodb atlas
 # networkdataextract-- etl pipeline
+# push data-- etl pipeline
+# we are writing all the config in entity folder
