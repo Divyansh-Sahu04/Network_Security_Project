@@ -1,4 +1,4 @@
-
+## Run this file in cmd to make connection with mongodb
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
