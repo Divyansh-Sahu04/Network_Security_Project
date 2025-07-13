@@ -6,4 +6,4 @@
 # our data should have same schema(same number of features)
 # data drift report
 # validate no of columns numerical column exist
- 
+# mlfow ui
