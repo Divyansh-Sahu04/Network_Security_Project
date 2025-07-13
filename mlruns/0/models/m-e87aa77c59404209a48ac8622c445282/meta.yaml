@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/mrred/Desktop/git-code/Network_Security/mlruns/0/models/m-e87aa77c59404209a48ac8622c445282/artifacts
+creation_timestamp: 1752438717191
+experiment_id: '0'
+last_updated_timestamp: 1752438722021
+model_id: m-e87aa77c59404209a48ac8622c445282
+model_type: null
+name: model
+source_run_id: 1b188e0e90ef4f6898a199e4e343d0f2
+status: 2
+status_message: null
