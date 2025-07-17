@@ -1,4 +1,4 @@
-Network Security Project for Phishing Data
+## Network Security Project for Phishing Data
 
 * Processed a large dataset of over 11,000 records and more than 30 features capturing URL and website characteristics, where the model outputs -1 for malicious websites and 1 for safe ones.
 * Extracted and cleaned a Kaggle dataset, transformed it from CSV to JSON format, and loaded it into MongoDB Atlas using an ETL pipeline.
